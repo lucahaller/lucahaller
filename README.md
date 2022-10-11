@@ -16,9 +16,36 @@ Soy bueno trabajando en equipo, amable, paciente, educado, y un buen oyente de o
 -Nivel de Inglés intermedio
 # Proyectos
 
-<h2>Kustoms Sports</h2>
+<h2>Kustoms Sports - E-commerce</h2>
 
 <h3>Algunas imágenes del proyecto</h3>
-![HOME](https://user-images.githubusercontent.com/101752050/195197002-83647a49-32eb-42fd-9216-cbcae51dc508.png)
-![MASCULINO](https://user-images.githubusercontent.com/101752050/195197019-be3901b4-5bcc-4a16-9ee3-fe27cc0aedbc.png)
-![DETALLE FOTO](https://user-images.githubusercontent.com/101752050/195197030-d47ca3b5-3a8e-4f9d-bbc2-7c9ccf34a0a4.png)
+<picture>
+ 
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/101752050/195197002-83647a49-32eb-42fd-9216-cbcae51dc508.png">
+ 
+</picture>
+<picture>
+ 
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/101752050/195199471-9a34335f-af78-4f1f-80ae-0e4ce4cad8a0.png">
+ 
+</picture>
+<picture>
+ 
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/101752050/195199603-a24b9609-66b8-4886-8248-b6f36947f803.png">
+ 
+</picture>
+<picture>
+ 
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/101752050/195200406-ddcaa584-1cad-416f-b49a-1ea4f4c198bc.png">
+ 
+</picture>
+
+
+
+
+
+
+
+
+
+
