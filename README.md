@@ -1,4 +1,10 @@
 ### 👋Bienvenido!! Siéntase libre de indagar a gusto!👋
+<picture>
+ 
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="[https://user-images.githubusercontent.com/101752050/199621694-1b48786d-32c5-4176-ba0e-c2b5c864c875.png]">
+
+ 
+</picture>
 
 # Sobre Mí
 -Siempre he estado relacionado a la electrónica, pero quizás no de la manera que todos piensan, sino a la música electrónica y en mi escuela, a la automitazación electrónica.
