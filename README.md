@@ -1,7 +1,7 @@
 ### 👋Bienvenido!! Siéntase libre de indagar a gusto!👋
 <picture>
  
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="[https://user-images.githubusercontent.com/101752050/199621694-1b48786d-32c5-4176-ba0e-c2b5c864c875.png]">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/101752050/199622114-3378ab2f-294b-4d69-9658-66544ab7b2ca.gif">
 
  
 </picture>
