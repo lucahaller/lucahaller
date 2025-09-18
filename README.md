@@ -13,7 +13,7 @@ San Rafael, Mendoza, Argentina • ⭐ Buscando nuevos desafíos
 
 ---
 
-## ⚡ Highlights (Resumen rápido para recruiters)
+## ⚡ Highlights 
 - 🏋️ **Oasis (App Gimnasio)** — Gestión completa: rutinas (import/ExcelJS), evaluaciones, perfil usuario, panel admin, notificaciones y semáforo de pagos. → **Repositorio público** abajo.  
 - 🌍 **Tourist (Plataforma de reservas)** — Co-fundador y líder técnico. Tickets con QR, Google OAuth, Mercado Pago, paneles (admin/empresas/clientes). **Repo privado (confidencial)**.  
 - 💇 **App Peluquería (Google Apps Script)** — Automatización de turnos en Google Sheets + confirmaciones por mail. → **Repositorio público** abajo.
