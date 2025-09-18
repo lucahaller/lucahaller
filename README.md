@@ -1,106 +1,156 @@
-### 👋 ¡Bienvenido! Siéntase libre de indagar a gusto 👋
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/101752050/199622114-3378ab2f-294b-4d69-9658-66544ab7b2ca.gif" alt="welcome gif"/>
-</p>
+<!-- README.md de Luca Haller -->
+<!-- Usa este archivo como README principal en tu perfil de GitHub -->
+
+
+
+# 👋 Hola — Soy **Luca Haller**
+**Full-Stack Developer** (orientado Front End) · Co-fundador · Líder técnico  
+San Rafael, Mendoza, Argentina • ⭐ Buscando nuevos desafíos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-haller-653b8a237/) 
+[![Email](https://img.shields.io/badge/Email-lucahhaller@gmail.com-red?logo=gmail&logoColor=white)](mailto:lucahhaller@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Ver%20mi%20sitio-green)](https://portafolio-lnzyx0xc8-lucahaller.vercel.app/)
+
+---
+
+## ⚡ Highlights (Resumen rápido para recruiters)
+- 🏋️ **Oasis (App Gimnasio)** — Gestión completa: rutinas (import/ExcelJS), evaluaciones, perfil usuario, panel admin, notificaciones y semáforo de pagos. → **Repositorio público** abajo.  
+- 🌍 **Tourist (Plataforma de reservas)** — Co-fundador y líder técnico. Tickets con QR, Google OAuth, Mercado Pago, paneles (admin/empresas/clientes). **Repo privado (confidencial)**.  
+- 💇 **App Peluquería (Google Apps Script)** — Automatización de turnos en Google Sheets + confirmaciones por mail. → **Repositorio público** abajo.
+
+---
+
+# 📌 Índice
+1. [Sobre mí](#-sobre-mí)  
+2. [Proyectos destacados](#-proyectos-destacados)  
+   - Oasis (Gimnasio)  
+   - Tourist (Reservas Turísticas)  
+   - App Peluquería (Apps Script)  
+   - Otros proyectos (Kustoms, Recipes SPA)  
+3. [Stack tecnológico](#-stack-tecnológico)  
+4. [Contacto](#-contacto)  
+5. [Cómo revisar los proyectos](#-cómo-revisar-los-proyectos)
+
+---
 
 # 💻 Sobre mí
-
-Soy **Luca Haller**, desarrollador web Full Stack con orientación al Front End, experiencia real liderando equipos, y un enfoque integral que une diseño, código, estrategia empresarial y uso de inteligencia artificial.  
-Nacido en **San Rafael, Mendoza**, me apasiona crear soluciones digitales funcionales, creativas y adaptadas a cada necesidad, ya sea en proyectos freelance, start-ups o colaboraciones corporativas.
-
-🎓 **Formación:**  
-- Full Stack Web Developer – Henry Bootcamp (700 hs prácticas y teóricas)  
-- Productor Musical – INARTEC, Buenos Aires  
-- Técnico electricista – Nivel Secundario
-
-🧠 **Idiomas:**  
-- Español: Nativo  
-- Inglés: Avanzado (B2 – en formación Cambridge)  
-- Portugués: Básico
+Soy **Luca Haller**, desarrollador con experiencia en proyectos reales (freelance y startups). Me enfoco en construir productos que combinan buena UX, rendimiento y robustez en el backend. Trabajo con metodologías ágiles, integración de APIs y automatizaciones que aportan valor real al negocio.
 
 ---
 
-# 🧩 Experiencia Destacada
+# 🧩 Proyectos Destacados
 
-## 💼 **Freelancer – Diseño y Desarrollo Web (2 años)**  
-🗓️ *San Rafael, Mendoza*
+## 🏋️ Oasis — App de Gestión Integral para Gimnasios
+**Periodo:** 2024 – 2025  
+**Rol:** Desarrollador Full-Stack, Product Owner (implementación de features clave)
 
-Diseñé y desarrollé páginas web personalizadas para empresas, marcas y emprendedores.  
-Incluye **e-commerce, landing pages, páginas institucionales y sistemas internos** con foco en diseño moderno, UX/UI, funcionalidad y posicionamiento.
+**Descripción corta:** Plataforma full-stack para administrar gimnasios con foco en rutinas, evaluaciones y gestión de pagos.
 
-🔧 Tecnologías: React, TailwindCSS, HTML, JavaScript, Node.js, SQL, PostgreSQL, Material UI  
-🛠️ Funciones: Formularios interactivos, animaciones, galerías, diseños responsive, integración con WhatsApp, SEO, y más.
+**Funcionalidades clave**
+- 📥 **Import/Export de rutinas con Excel (ExcelJS)** — subir rutinas en masa y convertirlas a formato de la app.  
+- 🧾 **Creación/Edición de rutinas** y plantillas reutilizables para entrenadores.  
+- 📊 **Evaluaciones físicas**: registro de métricas, historial y progresos.  
+- 👤 **Perfiles de clientes** con métricas y rutinas asignadas.  
+- 🖥️ **Panel Admin**: gestión de usuarios, pagos, rutinas y reportes.  
+- 🔔 **Sistema de notificaciones** (admin + usuario) para vencimientos y recordatorios.  
+- 🚦 **Semáforo de pagos**: indicador visual (verde/amarillo/rojo) según días restantes; notificaciones automáticas 5/2/1 días antes.  
+- 🔐 **Acceso condicional** a contenido según estado de pago.
 
----
+**Stack técnico**
+- Frontend: React, TailwindCSS, Material UI  
+- Backend: Node.js, Express, PostgreSQL  
+- Auth / Seguridad: JWT  
+- Otras librerías: ExcelJS (import/export), AOS (animaciones)
 
-## 🌍 **Co-Fundador y Líder Técnico – Tourist (App de Reservas Turísticas)**  
-🗓️ *Nov. 2022 - Mar. 2024*
-
-Lideré la creación de una plataforma de turismo integral, donde trabajé junto a un equipo de programadores bajo metodología **Scrum** y usando **Trello** para organización.  
-El sitio incluye perfiles de usuario, paneles para empresas, validación de tickets, carga de actividades y contacto directo con WhatsApp.
-
-👥 Aprendí a coordinar equipos, delegar tareas, gestionar versiones, y mantener comunicación efectiva entre todas las áreas.  
-📈 Además, desarrollé y ejecuté las estrategias de marketing y branding de la marca.
-
-🔧 Tecnologías: HTML, CSS, JavaScript, React, Redux Toolkit, PostgreSQL, TailwindCSS, Flowbite, TypeScript, SQL
-
----
-
-## 🛍️ **Kustoms Sports – E-commerce grupal (Bootcamp Henry)**  
-Aplicación web con funcionalidades de tienda online: filtros, pasarela de pago, inicio de sesión, panel admin, etc.
-
-🔧 Front End con React, Redux, Tailwind  
-🔧 Back End con Node.js, Express, PostgreSQL  
-💼 Trabajé en componentes UI, rutas y lógica colaborativa
-
-🌐 [Ver Proyecto](https://kustoms-sports.vercel.app/)
+**Repositorio:** https://github.com/lucahaller/Oasis-Gym
 
 ---
 
-## 🍝 **Recipes SPA – App de Recetas (Proyecto Individual Henry)**  
-Web app con filtros, ordenamientos, creación de recetas y consumo de API externa (Spoonacular).  
-Desarrollada con React, Redux, CSS, Node.js, Express, PostgreSQL y Sequelize.
+## 🌍 Tourist — Plataforma de Reservas Turísticas
+**Periodo:** Nov 2022 – Mar 2024  
+**Rol:** Co-fundador, Líder Técnico
 
-🌐 [Repositorio](https://github.com/lucahaller/PiFood)
+**Descripción corta:** Market-place y sistema de reservas para actividades turísticas (similar a Booking pero orientado a experiencias locales).
+
+**Funcionalidades clave**
+- 🔐 **Autenticación (incl. Google OAuth)** para usuarios y empresas.  
+- 💳 **Integración Mercado Pago (Checkout)** para cobros online y pagos parciales.  
+- 🎟️ **Tickets digitales con QR** y validación en destino por personal/empresa.  
+- 🏢 **Paneles multi-rol**: Admin, Empresa (dueño), Usuario (cliente).  
+- 🛠️ **Gestión de actividades**: creación, edición, horarios, cupos y precios dinámicos.  
+- 🧾 **Sistema de tickets/reservas** y generación automática de comprobantes.  
+- 📲 **Notificaciones** (reserva realizada, recordatorio, cambio de horario).  
+- ⭐ **Reseñas y valoraciones**, y verificación con Google API.  
+- 🛡️ **Baneo y verificación de empresas** para evitar fraudes y mantener la calidad.
+
+**Stack técnico**
+- Frontend: React, Redux Toolkit, TypeScript, TailwindCSS, Flowbite  
+- Backend: Node.js, Express, PostgreSQL  
+- APIs: Google API (auth + reseñas), Mercado Pago API
+
+**Repositorio:** _Privado por confidencialidad (se puede compartir demo o CV técnico bajo NDA)._  
 
 ---
 
-# 🔬 Otras habilidades destacadas
+## 💇 App Peluquería — Google Apps Script
+**Periodo:** 2023  
+**Rol:** Desarrollador
 
-- Generación y entrenamiento de prompts para Inteligencias Artificiales
-- Aplicación de IA en diseño, redacción, estrategia y contenido SEO
-- Diseño de brochures y presentaciones con Canva + IA
-- Redacción de emails corporativos y materiales para asesorías económicas internacionales
-- Marketing digital orgánico para empresas y proyectos artísticos
+**Descripción corta:** Sistema de turnos y automatizaciones integrado con Google Workspace.
+
+**Funcionalidades clave**
+- 📅 **Reserva de turnos** con control de disponibilidad en Google Sheets.  
+- ✉️ **Confirmaciones automáticas por correo** (Gmail).  
+- 📈 **Reportes y estadísticas** de ocupación y clientes recurrentes.  
+- 🔁 **Automatizaciones** para liberar horarios y notificaciones.
+
+**Stack técnico**
+- Google Apps Script, Google Sheets API, HTML/CSS/JS (front embed), Gmail
+
+**Repositorio:** https://github.com/lucahaller/App-Peluqueria
 
 ---
 
-# 🧠 Tecnologías
+## 🛍️ Otros proyectos
+- **Kustoms Sports** — E-commerce (React, Redux, Tailwind, Node.js, PostgreSQL).  
+  Demo: https://kustoms-sports.vercel.app/  
+- **Recipes SPA (PiFood)** — App de recetas (React, Redux, Node.js).  
+  Repo: https://github.com/lucahaller/PiFood
 
+---
+
+# 🛠️ Stack Tecnológico (Resumen)
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="28"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="28"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="28"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="28"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="28"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="28"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="28"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="28"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="28"/>
 </p>
+
+**Otras herramientas:** ExcelJS, JWT, Google API, Mercado Pago, Figma, Canva, AOS, Postman
 
 ---
 
 # 📬 Contacto
-
-🔗 [LinkedIn](https://www.linkedin.com/in/luca-haller-653b8a237/)  
-🌐 [Portfolio personal](https://portafolio-lnzyx0xc8-lucahaller.vercel.app/)  
-📧 lucahhaller@gmail.com  
-📞 +54 9 2604 309716
+- LinkedIn: https://www.linkedin.com/in/luca-haller-653b8a237/  
+- Portfolio: https://portafolio-lnzyx0xc8-lucahaller.vercel.app/  
+- Email: lucahhaller@gmail.com  
+- Tel / WhatsApp: +54 9 2604 309716
 
 ---
 
-🌟 Gracias por visitar mi perfil. ¡Estoy listo para nuevas colaboraciones, desafíos y oportunidades!
+# 🔎 Cómo revisar mis proyectos
+- Repositorios públicos: sigue los enlaces arriba (Oasis, App-Peluquería, PiFood).  
+- Tourist es **privado** por razones comerciales; puedo compartir demo, slides técnicas o una presentación bajo NDA o al solicitar entrevista técnica.  
+- Si querés un **resumen técnico por proyecto** (arquitectura, endpoints, DB schema, decisiones clave) lo preparo y lo adjunto en el repo o te lo envío por mail/drive.
+
+---
+
+<p align="center">  
+Gracias por llegar hasta acá — ¡listo para colaborar y construir productos que sumen! 🚀  
+</p>
