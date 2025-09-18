@@ -113,7 +113,7 @@ Link de la página : https://tourist.com.ar/
 
 ## 🛍️ Otros Proyectos
 
-- **Pulsomarkt (España)** — Landing page tipo scroll para agencia de marketing digital, con secciones animadas y formulario de contacto.  
+- **Pulsomarkt (España)** — Landing page tipo scroll para agencia de marketing digital, con secciones animadas , plugin para traducción automática de ingles/español y formulario de contacto.  
   Tecnologías: React, JavaScript, TailwindCSS, AOS, EmailJS.  
   Demo: [pulsomarkt.vercel.app](https://pulsomarkt.com/)  
 
