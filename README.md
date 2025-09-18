@@ -9,7 +9,7 @@ San Rafael, Mendoza, Argentina • ⭐ Buscando nuevos desafíos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-haller-653b8a237/) 
 [![Email](https://img.shields.io/badge/Email-lucahhaller@gmail.com-red?logo=gmail&logoColor=white)](mailto:lucahhaller@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Ver%20mi%20sitio-green)](https://portafolio-lnzyx0xc8-lucahaller.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Ver%20mi%20sitio-green)](https://portfoliofinal-gamma.vercel.app/)
 
 ---
 
@@ -62,7 +62,7 @@ Soy **Luca Haller**, desarrollador con experiencia en proyectos reales (freelanc
 - Auth / Seguridad: JWT  
 - Otras librerías: ExcelJS (import/export), AOS (animaciones)
 
-**Repositorio:** https://github.com/lucahaller/Oasis-Gym
+**Repositorio:** https://github.com/lucahaller/OasisGYMApp
 
 ---
 
@@ -84,12 +84,12 @@ Soy **Luca Haller**, desarrollador con experiencia en proyectos reales (freelanc
 - 🛡️ **Baneo y verificación de empresas** para evitar fraudes y mantener la calidad.
 
 **Stack técnico**
-- Frontend: React, Redux Toolkit, TypeScript, TailwindCSS, Flowbite  
+- Frontend: React, Redux Toolkit, TypeScript, TailwindCSS, Flowbite , Javascript
 - Backend: Node.js, Express, PostgreSQL  
 - APIs: Google API (auth + reseñas), Mercado Pago API
 
 **Repositorio:** _Privado por confidencialidad (se puede compartir demo o CV técnico bajo NDA)._  
-
+Link de la página : https://tourist.com.ar/
 ---
 
 ## 💇 App Peluquería — Google Apps Script
@@ -107,7 +107,7 @@ Soy **Luca Haller**, desarrollador con experiencia en proyectos reales (freelanc
 **Stack técnico**
 - Google Apps Script, Google Sheets API, HTML/CSS/JS (front embed), Gmail
 
-**Repositorio:** https://github.com/lucahaller/App-Peluqueria
+**Repositorio:** https://github.com/lucahaller/FormTurnos
 
 ---
 
