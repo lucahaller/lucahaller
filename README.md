@@ -111,11 +111,30 @@ Link de la página : https://tourist.com.ar/
 
 ---
 
-## 🛍️ Otros proyectos
-- **Kustoms Sports** — E-commerce (React, Redux, Tailwind, Node.js, PostgreSQL).  
-  Demo: https://kustoms-sports.vercel.app/  
-- **Recipes SPA (PiFood)** — App de recetas (React, Redux, Node.js).  
-  Repo: https://github.com/lucahaller/PiFood
+## 🛍️ Otros Proyectos
+
+- **Pulsomarkt (España)** — Landing page tipo scroll para agencia de marketing digital, con secciones animadas y formulario de contacto.  
+  Tecnologías: React, JavaScript, TailwindCSS, AOS, EmailJS.  
+  Demo: [pulsomarkt.vercel.app](https://pulsomarkt.com/)  
+
+- **D.D.E.C Construcciones** — Landing page institucional para empresa constructora.  
+  Tecnologías: React, JavaScript, TailwindCSS.  
+  Demo: [ddec.vercel.app](https://ddec.vercel.app)  
+
+- **No Sense Indumentary** — E-commerce de indumentaria urbana con catálogo, carrito de compras y pasarela de pago vía WhatsApp.  
+  Tecnologías: React, JavaScript, TailwindCSS, integración con WhatsApp.  
+  Repo: [github.com/lucahaller/NoSense](https://github.com/lucahaller/NoSense)  
+
+- **Meme Coin Page** — Landing page promocional para una criptomoneda meme.  
+  Tecnologías: React, JavaScript, TailwindCSS.  
+
+- **Kustoms Sports** — E-commerce completo con panel de administración, catálogo, carrito de compras y base de datos relacional.  
+  Tecnologías: React, Redux, TailwindCSS, Node.js, PostgreSQL.  
+  Demo: [kustoms-sports.vercel.app](https://kustoms-sports.vercel.app)  
+
+- **Recipes SPA (PiFood)** — Aplicación SPA para búsqueda y creación de recetas, con filtrado avanzado y consumo de API externa.  
+  Tecnologías: React, Redux, Node.js.  
+  Repo: [github.com/lucahaller/PiFood](https://github.com/lucahaller/PiFood)  
 
 ---
 
